@@ -4,8 +4,8 @@
   "version": "0.1.0",
   "scripts": {
     "clean": "bsb -clean-world",
-    "build": "bsb -make-world",
-    "watch": "bsb -make-world -w"
+    "build": "lerna run build --stream",
+    "watch": "lerna run watch --stream"
   },
   "keywords": [
     "BuckleScript"
