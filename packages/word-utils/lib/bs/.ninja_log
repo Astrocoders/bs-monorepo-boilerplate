@@ -1,0 +1,6 @@
+# ninja log v5
+0	34	1545614361	src/WordUtils.mlast	b3aae4d7ccdd490a
+34	42	1545614361	src/WordUtils.mlast.d	9b05a350d5e2c807
+0	19	1545614361	src/WordUtils.cmj	9927c1eb11d62d4b
+0	19	1545614361	/Users/gabrielr.abreu/projects/astrocoders/bs-test-monorepo/node_modules/word-utils/src/WordUtils.bs.js	9927c1eb11d62d4b
+0	19	1545614361	src/WordUtils.cmi	9927c1eb11d62d4b

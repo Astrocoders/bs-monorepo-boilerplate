@@ -1,0 +1,22 @@
+{
+  "name": "word-utils",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "Gabriel R. Abreu <grsabreu@gmail.com>",
+  "homepage": "",
+  "license": "MIT",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "build": "bsb -make-world"
+  },
+  "dependencies": {
+    "bs-platform": "^4.0.14"
+  }
+}

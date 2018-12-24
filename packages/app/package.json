@@ -1,0 +1,23 @@
+{
+  "name": "app",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "Gabriel R. Abreu <grsabreu@gmail.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/app.js",
+  "directories": {
+    "src": "src",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "build": "bsb -make-world",
+    "watch": "bsb -make-world -w -clean-world"
+  },
+  "dependencies": {
+    "bs-platform": "^4.0.14"
+  }
+}
