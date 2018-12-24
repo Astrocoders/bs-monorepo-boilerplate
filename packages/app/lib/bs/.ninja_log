@@ -1,6 +1,6 @@
 # ninja log v5
-0	15	1545614361	src/demo.mlast	5f88c643a1c1e624
-15	24	1545614361	src/demo.mlast.d	1c4d1cd0186d4aa1
-1	19	1545614361	src/demo.cmj	5c8df9cbd2389c04
-1	19	1545614361	/Users/gabrielr.abreu/projects/astrocoders/bs-test-monorepo/packages/app/src/demo.bs.js	5c8df9cbd2389c04
-1	19	1545614361	src/demo.cmi	5c8df9cbd2389c04
+0	13	1545648524	src/demo.mlast	5f88c643a1c1e624
+13	21	1545648524	src/demo.mlast.d	1c4d1cd0186d4aa1
+0	22	1545648524	src/demo.cmj	5c8df9cbd2389c04
+0	22	1545648524	/Users/gabrielr.abreu/projects/astrocoders/bs-test-monorepo/packages/app/src/demo.bs.js	5c8df9cbd2389c04
+0	22	1545648524	src/demo.cmi	5c8df9cbd2389c04
